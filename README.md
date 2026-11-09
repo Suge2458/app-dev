@@ -9,7 +9,7 @@
 3. Julia Maddon
 ## Why I Like It
 - Fast and exciting car chases abd races
-- Stunts that feel real and not just cji
+- Stunts that feel real and not just cgi
 - Amazing cars
 ## Quick Facts
 | Detail         | Info                      |
