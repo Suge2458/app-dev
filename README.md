@@ -13,7 +13,7 @@
 - Amazing cars
 ## Quick Facts
 | Detail         | Info                      |
-|================|===========================|
+|----------------|---------------------------|
 | Release Year   | 2014                      |
 | Genre          | Action and Racing         |
 | Based On       | Need for Speed video games|
