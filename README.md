@@ -17,8 +17,3 @@
 | Release Year   | 2014                      |
 | Genre          | Action and Racing         |
 | Based On       | Need for Speed video games|
-Main cars in the movie:
-```
-Tobey Marshall -> Ford Mustang
-Dino Brewster  -> Koenigsegg Agera R
-```
